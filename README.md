@@ -2,7 +2,7 @@
 
 Personal Portfolio page using React, graphql, apollo-boost, react-twitter-embed, react-easy-emoji, react-headroom, color-thief.
 
-Mods include: cleaning up a few sections, altering github fetch, substituting Lottie for a profile Image, changes to styles, header, footer and other details
+Mods include: Cleaning up a few sections, altering github fetch, substituting Lottie for a profile Image, changes to styles, header, footer and other details.
 
 ## Contents
 - Summary
