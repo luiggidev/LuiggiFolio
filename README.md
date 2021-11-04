@@ -1,4 +1,4 @@
-##3Software Developer Portfolio
+### Software Developer Portfolio
 
 ## Technologies Used 
 
