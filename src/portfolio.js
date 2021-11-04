@@ -14,7 +14,7 @@ const greeting = {
   username: "Luiggi Bellincanta",
   title: "Hello there, it's me Luiggi!",
   subTitle: emoji(
-    "A passionate Software Developer 👨‍💻 Experience in building Web applications with JavaScript / React / PHP / Wordpress and other interessing libraries and frameworks."
+    "A passionate Software Developer 👨‍💻 Experience in building Web applications with JavaScript / React / PHP / Wordpress and other interesting libraries and frameworks."
   ),
   resumeLink:
     "https://www.linkedin.com/in/luiggi-annes-bellincanta-dev/?locale=en_US", // Set to empty to hide the button
