@@ -11,26 +11,27 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
+  username: "Luiggi Bellincanta",
+  title: "Hello there, it's me Luiggi!",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate Software Developer 👨‍💻 Experience in building Web applications with JavaScript / React / PHP / Wordpress and other interessing libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://www.linkedin.com/in/luiggi-annes-bellincanta-dev/?locale=en_US", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  github: "https://github.com/luiggidev",
+  linkedin: "https://www.linkedin.com/in/luiggi-annes-bellincanta-dev/?locale=en_US",
+  gmail: "luiggibellincanta@gmail.com",
+  gitlab: "",
+  facebook: "",
+  instagram: "https://www.instagram.com/luiggiannes/",
+  medium: "",
+  stackoverflow: "https://stackoverflow.com/users/8272670/luiggi-annes",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -40,14 +41,19 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "SOFTWARE DEVELOPER OPEN TO EXPLORE NEW STACKS",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Develop interactive Front end / User Interfaces"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Mainly interested in Javascript frameworks / Libraries"
+    ),
+    emoji(
+      "⚡ Exploring and fixing accessibility issues (WCAG, A11y)"
+    ),
+    emoji(
+      "⚡ Worked with Wordpress theme and plugin development"
     )
   ],
 
@@ -56,56 +62,72 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "reactjs",
+      skillName: "Reactjs",
       fontAwesomeClassname: "fab fa-react"
     },
     {
-      skillName: "nodejs",
+      skillName: "Html-5",
+      fontAwesomeClassname: "fab fa-html5"
+    },
+    {
+      skillName: "Css3",
+      fontAwesomeClassname: "fab fa-css3-alt"
+    },
+    {
+      skillName: "Sass",
+      fontAwesomeClassname: "fab fa-sass"
+    },
+    {
+      skillName: "Bootstrap",
+      fontAwesomeClassname: "fab fa-bootstrap"
+    },
+    {
+      skillName: "Accessibility",
+      fontAwesomeClassname: "fas fa-universal-access"
+    },
+    {
+      skillName: "Gulp",
+      fontAwesomeClassname: "fab fa-gulp"
+    },
+    {
+      skillName: "Git",
+      fontAwesomeClassname: "fab fa-git"
+    },
+    {
+      skillName: "Php",
+      fontAwesomeClassname: "fab fa-php"
+    },
+    {
+      skillName: "Wordpress",
+      fontAwesomeClassname: "fab fa-wordpress"
+    },
+    {
+      skillName: "Linux",
+      fontAwesomeClassname: "fab fa-linux"
+    },
+    {
+      skillName: "Ubuntu",
+      fontAwesomeClassname: "fab fa-ubuntu"
+    },
+    {
+      skillName: "Terminal",
+      fontAwesomeClassname: "fas fa-terminal"
+    },
+    {
+      skillName: "Nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
+      skillName: "Npm",
       fontAwesomeClassname: "fab fa-npm"
     },
     {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
+      skillName: "Python",
       fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -117,23 +139,23 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      schoolName: "Univali University",
+      logo: require("./assets/images/Logo_Univali.png"),
+      subHeader: "Bachelor - Software Analysis and Development",
+      duration: "September 2021 - 2024",
+      desc: "Operating systems, web applications, multimedia interfaces, databases, system analysis and design paradigms.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Using C/C++, C#, SQL to learn and interact with design principles, databases and system analysis",
+        "Using HTML, CSS, JavaScript, PHP to program various technological solutions to contribute to the development of organizations."
       ]
     },
     {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      schoolName: "Federal University of Santa Catarina",
+      logo: require("./assets/images/vertical_sigla_fundo_claro.png"),
+      subHeader: "Bachelor - Economic Science",
+      duration: "January 2011 - June 2015",
+      desc: "Supported research in financial data analysis while collecting and validating a large number of data sets taken from government and stock market databases.",
+      descBullets: ["Conducted research in capital markets, statistics and behaviour economics.", "Used Python, Excel and R to do most of the data processing."]
     }
   ]
 };
@@ -141,7 +163,7 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
@@ -165,29 +187,36 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Software Developer",
+      company: "Contract Web Developer",
+      companylogo: require("./assets/images/luiggi.png"),
+      date: "July 2019 – Present",
+      desc: "Experience developing themes and plugins, converting approved designs to functional, responsive and accessible templates using PHP, HTML, JS, WP and Woocommerce.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Currently learning React, Node and German.",
+        "Dedicated to learning additional technologies and coding languages.",
+        "Familiar with Python and C++ for Embedded systems."
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Wordpress Developer",
+      company: "Fluidweb",
+      companylogo: require("./assets/images/FluidwebLogo.jpg"),
+      date: "2 years and 3 months",
+      desc: "Worked on various projects at fluiweb.co as a WordPress Developer, developed themes and plugins, converted approved designs to functional, responsive, web and mobile templates, pages and plugins for the WordPress CMS.",
+      descBullets: [
+        "Worked with technologies such as WP, WC, PHP,CSS, JS, GIT, GULP, ACF, LINUX OS and VS"
+      ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "International Purchase Analyst",
+      company: "Eixo Snetor Brasil",
+      companylogo: require("./assets/images/eixo_snetor_brasil2.jpg"),
+      date: "October 2017 – June 2019",
+      desc: "Worked at an International purchase department for an importing company. Responsible for evaluating a large sample of data to make decisions on purchase, logistics and import procedures necessary to supply the national market of plastic resins.",
+      descBullets: [
+        "Worked with technologies such as JS, Batch Scripts and Excel."
+      ]
     }
   ]
 };
@@ -204,28 +233,38 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/LobsterAnywhere.jpg"),
+      projectName: "Lobster Anywhere",
+      projectDesc: "Simplified checkout and improved navigation for the online store",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://fluidweb.co/portfolio/lobsteranywhere/"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/racineJewels.png"),
+      projectName: "Racine Jewels",
+      projectDesc: "Refined Webdesign for a Swiss jewellery brand",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://fluidweb.co/portfolio/racine-jewels/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/Tattoo-bon.png"),
+      projectName: "Tattoo-bon",
+      projectDesc: "Conversion optimized website and checkout flow",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://fluidweb.co/portfolio/tattoo-bon/"
         }
       ]
     }
@@ -237,53 +276,41 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji("Achievements And Certifications 🏆 "),
-  subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
-
+  title: emoji("Certifications 📚 "),
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Vanilla JS Academy",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+        "Modern JS (ES6+), DOM manipulation and injection, Ajax and Promises, How to work with APIs, async and await, write JavaScript libraries, State-based UI and data reactivity, Web accessibility fundamentals, Array and object destructuring.",
+      image: require("./assets/images/VanillaJSAcademy.png"),
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://stackoverflow.com/users/story/8272670"
         },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "JavaScript Algorithms and Data Structures",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+        "Fundamentals of JavaScript, algorithms to manipulate strings, factorialize numbers and Object Oriented Programming (OOP)..",
+      image: require("./assets/images/JavaScriptAlgorithms.png"),
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "Certification",
+          url: "https://www.freecodecamp.org/certification/luiggiab/javascript-algorithms-and-data-structures"
         }
       ]
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
+      title: "Complete WordPress Theme & Plugin Development Course",
+      subtitle: "Build and customize themes and plugins, how WordPress works under the hood, from template files and tags to hooks and internal APIs.",
+      image: require("./assets/images/WPdevelopment.png"),
       footerLink: [
-        {name: "Certification", url: ""},
         {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          name: "Certification",
+          url: "https://www.udemy.com/certificate/UC-7a127072-9462-4d7b-b739-9ed6a9e2536e/"
         }
       ]
     }
@@ -294,23 +321,19 @@ const achievementSection = {
 // Blogs Section
 
 const blogSection = {
-  title: "Blogs",
-  subtitle:
-    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
-
+  title: "Blog and Github",
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://luiggiannes.me/",
+      title: "luiggiannes.me",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "The ideia behind this blog is registering my programming learning journey and personal projects and experiences."
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
-    }
+      url: "https://github.com/luiggidev",
+      title: "Github",
+      description: "👋 Hi, I’m @luiggidev."
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -331,7 +354,7 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -344,21 +367,21 @@ const podcastSection = {
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com"
+    "Want to say hi?",
+  number: "",
+  email_address: "luiggibellincanta@gmail.com"
 };
 
 // Twitter Section
 
 const twitterDetails = {
-  userName: "twitter", //Replace "twitter" with your twitter username without @
+  userName: "LuiggiAnnes", //Replace "twitter" with your twitter username without @
   display: true // Set true to display this section, defaults to false
 };
 
