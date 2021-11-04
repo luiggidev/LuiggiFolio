@@ -293,7 +293,7 @@ const achievementSection = {
     {
       title: "JavaScript Algorithms and Data Structures",
       subtitle:
-        "Fundamentals of JavaScript, algorithms to manipulate strings, factorialize numbers and Object Oriented Programming (OOP)..",
+        "Fundamentals of JavaScript, algorithms to manipulate strings, factorialize numbers and Object Oriented Programming (OOP).",
       image: require("./assets/images/JavaScriptAlgorithms.png"),
       footerLink: [
         {
@@ -327,7 +327,7 @@ const blogSection = {
       url: "https://luiggiannes.me/",
       title: "luiggiannes.me",
       description:
-        "The ideia behind this blog is registering my programming learning journey and personal projects and experiences."
+        "The idea behind this blog is registering my programming learning journey and personal projects and experiences."
     },
     {
       url: "https://github.com/luiggidev",
