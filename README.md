@@ -1,6 +1,7 @@
 # Developer Portfolio
 
 Personal Portfolio page using React, graphql, apollo-boost, react-twitter-embed, react-easy-emoji, react-headroom, color-thief.
+Mods include: cleaning up a few sections, altering github fetch, substituting Lottie for a profile Image, changes to styles, header, footer and other details
 
 ## Contents
 - Summary
@@ -26,7 +27,7 @@ Personal Portfolio page using React, graphql, apollo-boost, react-twitter-embed,
 ## Template 
 
 - [developerFolio](https://github.com/saadpasta/developerFolio)
-- 
+
 ## Illustrations
 - [UnDraw](https://undraw.co/illustrations)
 - [Lottie by Oblikweare](https://lottiefiles.com/oblikweare)
