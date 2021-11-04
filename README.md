@@ -1,4 +1,17 @@
-# Software Developer Portfolio
+# Developer Portfolio
+
+Personal Portfolio page using React, graphql, apollo-boost, react-twitter-embed, react-easy-emoji, react-headroom, color-thief.
+
+## Contents
+- Summary
+- Skills
+- Education
+- Work Experience
+- Big Projects
+- Certifications
+- Blogs and Github
+- Twitter Timeline
+- Contact me
 
 ## Technologies Used 
 
@@ -11,7 +24,8 @@
 - [color-thief](https://github.com/lokesh/color-thief)
 
 ## Template 
-- [color-thief](https://github.com/saadpasta/developerFolio)
+
+- [developerFolio](https://github.com/saadpasta/developerFolio)
 - 
 ## Illustrations
 - [UnDraw](https://undraw.co/illustrations)
