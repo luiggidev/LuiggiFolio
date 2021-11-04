@@ -1,3 +1,5 @@
+##3Software Developer Portfolio
+
 ## Technologies Used 
 
 - [React](https://reactjs.org/)
@@ -8,6 +10,9 @@
 - [react-headroom](https://github.com/KyleAMathews/react-headroom)
 - [color-thief](https://github.com/lokesh/color-thief)
 
+## Template 
+- [color-thief](https://github.com/saadpasta/developerFolio)
+- 
 ## Illustrations
 - [UnDraw](https://undraw.co/illustrations)
 - [Lottie by Oblikweare](https://lottiefiles.com/oblikweare)
