@@ -26,12 +26,12 @@ export default function Projects() {
         .then(response => {
           setrepoFunction(response.data.user.pinnedItems.edges);
         })
-        .catch(function (error) {
-          console.error(
-            `${error} (because of this error, nothing is shown in place of Projects section. Also check if Projects section has been configured)`
-          );
-          setrepoFunction("Error");
-        });
+        // .catch(function (error) {
+        //   console.error(
+        //     `${error} ( because of this error, nothing is shown in place of Projects section. Also check if Projects section has been configured)`
+        //   );
+        //   setrepoFunction("Error");
+        // });
     };
     getRepoData();
   }, []);
