@@ -4,7 +4,6 @@
   width: 90%;
   padding: 20px 10px;
   margin: 0px auto;
-  margin-top: 4rem;
 }
 .greet-main {
   width: 90%;
@@ -43,11 +42,15 @@
 .greeting-text-p {
   font-size: 30px;
   line-height: 40px;
+  @media (min-width: 768px) {
+    padding-right: 1rem;
+  }  
 }
 
 .greeting-image-div > img {
   max-width: 100%;
   height: auto;
+  margin-top: 2rem;
 }
 
 .wave-emoji {
@@ -108,7 +111,8 @@
     display: block;
   }
   .greeting-image-div {
-    height: 256px;
+    height: auto;
+    text-align: center;
   }
 }
 
