@@ -272,6 +272,54 @@ const bigProjects = {
   display: true // Set false to hide this section, defaults to true
 };
 
+// Smaller projects you have worked on
+
+const smallProjects = {
+  title: "Small Projects",
+  projects: [
+    {
+      image: require("./assets/images/react-calculator2.png"),
+      projectName: "React Calculator",
+      projectDesc: "Complete React calculator: Add, subtract, multiply, divide, supports decimal values, calculate percentages, invert, reset. ",
+      footerLink: [
+        {
+          name: "Github",
+          url: "https://github.com/luiggidev/react-calculator"
+        },
+        {
+          name: "App",
+          url: "https://reverent-hoover-da1782.netlify.app/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/racineJewels.png"),
+      projectName: "Racine Jewels",
+      projectDesc: "Refined Webdesign for a Swiss jewellery brand",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://fluidweb.co/portfolio/racine-jewels/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/Tattoo-bon.png"),
+      projectName: "Tattoo-bon",
+      projectDesc: "Conversion optimized website and checkout flow",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://fluidweb.co/portfolio/tattoo-bon/"
+        }
+      ]
+    }
+  ],
+  display: false // Set false to hide this section, defaults to true
+};
+
+
 // Achievement Section
 // Include certificates, talks etc
 
@@ -395,6 +443,7 @@ export {
   workExperiences,
   openSource,
   bigProjects,
+  smallProjects,
   achievementSection,
   blogSection,
   talkSection,
