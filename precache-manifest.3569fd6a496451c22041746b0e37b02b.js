@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a30ea3630578ce9a3fa464086b7aed6",
+    "revision": "760a74790ed5fdb91a35a43cfd1c761d",
     "url": "/index.html"
   },
   {
-    "revision": "dfbe5165abbc4bbba466",
+    "revision": "6fd714586ea65c815254",
     "url": "/static/css/3.f2344a45.chunk.css"
   },
   {
-    "revision": "646507c60c50ca4d96ea",
+    "revision": "5e8348e9493482a5eaeb",
     "url": "/static/css/4.f62bcc13.chunk.css"
   },
   {
-    "revision": "b9853474bbc5f9e66694",
-    "url": "/static/css/main.17614eb0.chunk.css"
+    "revision": "6d85dca0ebbd4e119b9b",
+    "url": "/static/css/main.790cc0a9.chunk.css"
   },
   {
-    "revision": "8b5ce25cc6c8abe7e985",
-    "url": "/static/js/2.5a4a5c26.chunk.js"
+    "revision": "b7a747df2f9a6bdfa619",
+    "url": "/static/js/2.11328ad8.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.5a4a5c26.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.11328ad8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dfbe5165abbc4bbba466",
-    "url": "/static/js/3.666e9c60.chunk.js"
+    "revision": "6fd714586ea65c815254",
+    "url": "/static/js/3.280c2dc8.chunk.js"
   },
   {
-    "revision": "646507c60c50ca4d96ea",
-    "url": "/static/js/4.5b5a4b50.chunk.js"
+    "revision": "5e8348e9493482a5eaeb",
+    "url": "/static/js/4.c7a595af.chunk.js"
   },
   {
-    "revision": "b9853474bbc5f9e66694",
-    "url": "/static/js/main.9df69f68.chunk.js"
+    "revision": "6d85dca0ebbd4e119b9b",
+    "url": "/static/js/main.d674f978.chunk.js"
   },
   {
-    "revision": "15b13b45b33378a6cfd2",
-    "url": "/static/js/runtime-main.5a8b2b9a.js"
+    "revision": "5ed5e2bfd2ec53fede2e",
+    "url": "/static/js/runtime-main.af7a4b0b.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -98,6 +98,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0250f7761f333e08d942938c8f80992b",
     "url": "/static/media/racineJewels.0250f776.png"
+  },
+  {
+    "revision": "2e10d2b65b778d2ab5d761f537960e87",
+    "url": "/static/media/react-calculator2.2e10d2b6.png"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
