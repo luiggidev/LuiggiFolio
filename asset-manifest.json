@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.790cc0a9.chunk.css",
-    "main.js": "/static/js/main.d674f978.chunk.js",
-    "main.js.map": "/static/js/main.d674f978.chunk.js.map",
+    "main.js": "/static/js/main.563411c3.chunk.js",
+    "main.js.map": "/static/js/main.563411c3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.af7a4b0b.js",
     "runtime-main.js.map": "/static/js/runtime-main.af7a4b0b.js.map",
     "static/js/2.11328ad8.chunk.js": "/static/js/2.11328ad8.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.c7a595af.chunk.js": "/static/js/4.c7a595af.chunk.js",
     "static/js/4.c7a595af.chunk.js.map": "/static/js/4.c7a595af.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3569fd6a496451c22041746b0e37b02b.js": "/precache-manifest.3569fd6a496451c22041746b0e37b02b.js",
+    "precache-manifest.67ccc39231351bfac5480365c8457152.js": "/precache-manifest.67ccc39231351bfac5480365c8457152.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.f2344a45.chunk.css.map": "/static/css/3.f2344a45.chunk.css.map",
     "static/css/4.f62bcc13.chunk.css.map": "/static/css/4.f62bcc13.chunk.css.map",
@@ -25,14 +25,14 @@
     "static/media/JavaScriptAlgorithms.png": "/static/media/JavaScriptAlgorithms.8542ddeb.png",
     "static/media/LobsterAnywhere.jpg": "/static/media/LobsterAnywhere.358c6e6b.jpg",
     "static/media/Logo_Univali.png": "/static/media/Logo_Univali.cdfd3271.png",
-    "static/media/Luiggi-dev-b.png": "/static/media/Luiggi-dev-b.49945915.png",
+    "static/media/Luiggi-dev-compress.png": "/static/media/Luiggi-dev-compress.d5e004bc.png",
     "static/media/Tattoo-bon.png": "/static/media/Tattoo-bon.b7d33803.png",
     "static/media/VanillaJSAcademy.png": "/static/media/VanillaJSAcademy.9761cc00.png",
     "static/media/WPdevelopment.png": "/static/media/WPdevelopment.4a3b08a3.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
     "static/media/eixo_snetor_brasil2.jpg": "/static/media/eixo_snetor_brasil2.f780bf13.jpg",
-    "static/media/luiggi.png": "/static/media/luiggi.89ee2e2d.png",
+    "static/media/luiggi-profile-site.png": "/static/media/luiggi-profile-site.bae96d55.png",
     "static/media/racineJewels.png": "/static/media/racineJewels.0250f776.png",
     "static/media/react-calculator2.png": "/static/media/react-calculator2.2e10d2b6.png",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
@@ -43,6 +43,6 @@
     "static/js/runtime-main.af7a4b0b.js",
     "static/js/2.11328ad8.chunk.js",
     "static/css/main.790cc0a9.chunk.css",
-    "static/js/main.d674f978.chunk.js"
+    "static/js/main.563411c3.chunk.js"
   ]
 }

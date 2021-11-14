@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "760a74790ed5fdb91a35a43cfd1c761d",
+    "revision": "b60853c4845be897fc7893985486b456",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.f62bcc13.chunk.css"
   },
   {
-    "revision": "6d85dca0ebbd4e119b9b",
+    "revision": "7c85584c7537c136a68f",
     "url": "/static/css/main.790cc0a9.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.c7a595af.chunk.js"
   },
   {
-    "revision": "6d85dca0ebbd4e119b9b",
-    "url": "/static/js/main.d674f978.chunk.js"
+    "revision": "7c85584c7537c136a68f",
+    "url": "/static/js/main.563411c3.chunk.js"
   },
   {
     "revision": "5ed5e2bfd2ec53fede2e",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Logo_Univali.cdfd3271.png"
   },
   {
-    "revision": "49945915cb1e3278305bb8571bbb01b3",
-    "url": "/static/media/Luiggi-dev-b.49945915.png"
+    "revision": "d5e004bc597491725715a56df96bf1f5",
+    "url": "/static/media/Luiggi-dev-compress.d5e004bc.png"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -92,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/eixo_snetor_brasil2.f780bf13.jpg"
   },
   {
-    "revision": "89ee2e2d82c392161cc6d0ac6c97d5b4",
-    "url": "/static/media/luiggi.89ee2e2d.png"
+    "revision": "bae96d55926f9275cf993fafb8a6b815",
+    "url": "/static/media/luiggi-profile-site.bae96d55.png"
   },
   {
     "revision": "0250f7761f333e08d942938c8f80992b",
