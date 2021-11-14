@@ -189,7 +189,7 @@ const workExperiences = {
     {
       role: "Software Developer",
       company: "Contract Web Developer",
-      companylogo: require("./assets/images/luiggi.png"),
+      companylogo: require("./assets/images/luiggi-profile-site.png"),
       date: "July 2019 – Present",
       desc: "Experience developing themes and plugins, converting approved designs to functional, responsive and accessible templates using PHP, HTML, JS, WP and Woocommerce.",
       descBullets: [
