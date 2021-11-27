@@ -205,7 +205,7 @@ const workExperiences = {
       date: "July 2019 – Present",
       desc: "Worked on various projects at fluiweb.co as a WordPress Developer, developed themes and plugins, converted approved designs to functional, responsive, web and mobile templates, pages and plugins for the WordPress CMS.",
       descBullets: [
-        "Worked with technologies such as WP, WC, PHP,CSS, JS, GIT, GULP, ACF, LINUX OS and VS"
+        "Worked with technologies such as WP, WC, PHP, CSS, SASS, JS, REACT (Gutemberg), GIT, GULP, NPM, ACF, LINUX OS and VS."
       ]
     },
     {
