@@ -202,7 +202,7 @@ const workExperiences = {
       role: "Wordpress Developer",
       company: "Fluidweb",
       companylogo: require("./assets/images/FluidwebLogo.jpg"),
-      date: "2 years and 3 months",
+      date: "July 2019 – Present",
       desc: "Worked on various projects at fluiweb.co as a WordPress Developer, developed themes and plugins, converted approved designs to functional, responsive, web and mobile templates, pages and plugins for the WordPress CMS.",
       descBullets: [
         "Worked with technologies such as WP, WC, PHP,CSS, JS, GIT, GULP, ACF, LINUX OS and VS"
