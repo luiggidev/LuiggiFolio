@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "92c878521fd625f7e5f2a22a93c5f576",
+    "revision": "06d01e6791603c23a4ac31c327a2bd7e",
     "url": "/index.html"
   },
   {
-    "revision": "6fd714586ea65c815254",
+    "revision": "2e07944b4b1df372b7de",
     "url": "/static/css/3.f2344a45.chunk.css"
   },
   {
-    "revision": "5e8348e9493482a5eaeb",
+    "revision": "b8cb73155ae5cfe85c75",
     "url": "/static/css/4.f62bcc13.chunk.css"
   },
   {
-    "revision": "cf939703c9a11a0c7a9c",
+    "revision": "c02615c288b3c67b9c6f",
     "url": "/static/css/main.ae7a45fd.chunk.css"
   },
   {
-    "revision": "b7a747df2f9a6bdfa619",
-    "url": "/static/js/2.11328ad8.chunk.js"
+    "revision": "742e7b4e554c15c67475",
+    "url": "/static/js/2.f25fe529.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.11328ad8.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.f25fe529.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6fd714586ea65c815254",
-    "url": "/static/js/3.280c2dc8.chunk.js"
+    "revision": "2e07944b4b1df372b7de",
+    "url": "/static/js/3.dfc226eb.chunk.js"
   },
   {
-    "revision": "5e8348e9493482a5eaeb",
-    "url": "/static/js/4.c7a595af.chunk.js"
+    "revision": "b8cb73155ae5cfe85c75",
+    "url": "/static/js/4.97292943.chunk.js"
   },
   {
-    "revision": "cf939703c9a11a0c7a9c",
-    "url": "/static/js/main.abe05a46.chunk.js"
+    "revision": "c02615c288b3c67b9c6f",
+    "url": "/static/js/main.3eae3562.chunk.js"
   },
   {
-    "revision": "5ed5e2bfd2ec53fede2e",
-    "url": "/static/js/runtime-main.af7a4b0b.js"
+    "revision": "3c64560ba3dd22e3d7c1",
+    "url": "/static/js/runtime-main.c692fc19.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -92,12 +92,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/eixo_snetor_brasil2.f780bf13.jpg"
   },
   {
-    "revision": "bae96d55926f9275cf993fafb8a6b815",
-    "url": "/static/media/luiggi-profile-site.bae96d55.png"
+    "revision": "0ef7dc4bdee89bc99e42d9ae04f09da1",
+    "url": "/static/media/mindbell.0ef7dc4b.png"
+  },
+  {
+    "revision": "f2566e7cb4e0708d1c00f516dea6e5df",
+    "url": "/static/media/money-3.f2566e7c.png"
   },
   {
     "revision": "0250f7761f333e08d942938c8f80992b",
     "url": "/static/media/racineJewels.0250f776.png"
+  },
+  {
+    "revision": "d9f0551d4e91e3e7ac8f801bc7f0d5dd",
+    "url": "/static/media/rdnarts.d9f0551d.png"
   },
   {
     "revision": "2e10d2b65b778d2ab5d761f537960e87",
