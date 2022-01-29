@@ -187,25 +187,13 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Developer",
-      company: "Contract Web Developer",
-      companylogo: require("./assets/images/luiggi-profile-site.png"),
-      date: "July 2019 – Present",
-      desc: "Experience developing themes and plugins, converting approved designs to functional, responsive and accessible templates using PHP, HTML, JS, WP and Woocommerce.",
-      descBullets: [
-        "Currently learning React, Node and German.",
-        "Dedicated to learning additional technologies and coding languages.",
-        "Familiar with Python and C++ for Embedded systems."
-      ]
-    },
-    {
       role: "Wordpress Developer",
       company: "Fluidweb",
       companylogo: require("./assets/images/FluidwebLogo.jpg"),
       date: "July 2019 – Present",
-      desc: "Worked on various projects at fluiweb.co as a WordPress Developer, developed themes and plugins, converted approved designs to functional, responsive, web and mobile templates, pages and plugins for the WordPress CMS.",
+      desc: "Developed themes and plugins, converted approved designs to functional, responsive, web applications for the WordPress CMS. Experience in accessibility conversion and plugin support work.",
       descBullets: [
-        "Worked with technologies such as WP, WC, PHP, CSS, SASS, JS, REACT (Gutemberg), GIT, GULP, NPM, ACF, LINUX OS and VS."
+        "Worked with technologies such as Wordpress, Woocommerce, Php, Css, Sass, Gulp, Javascript, ReactJS (Gutemberg Blocks), ACF, Git, Npm, Visual code studio, Click-up and Asana task managers and Linux Os."
       ]
     },
     {
@@ -213,9 +201,29 @@ const workExperiences = {
       company: "Eixo Snetor Brasil",
       companylogo: require("./assets/images/eixo_snetor_brasil2.jpg"),
       date: "October 2017 – June 2019",
-      desc: "Worked at an International purchase department for an importing company. Responsible for evaluating a large sample of data to make decisions on purchase, logistics and import procedures necessary to supply the national market of plastic resins.",
+      desc: "International purchase department for an importing company. Responsible for evaluating a large sample of data to make decisions on purchase, logistics and import procedures necessary to supply the national market of plastic resins.",
       descBullets: [
         "Worked with technologies such as JS, Batch Scripts and Excel."
+      ]
+    },
+    {
+      role: "Administrative Assistant at CAMBEL",
+      company: "CAMBEL",
+      companylogo: require("./assets/images/cambel.png"),
+      date: "June 2015 – July 2017",
+      desc: "Financial and administrative services in the area of ​​civil construction. Structuring and organizing document files, purchase, issuing invoices, auxiliary inventory control services, carrying out revenue and accounts payable registration activities and analyzing financial reports.",
+      descBullets: [
+        "Administrative purchase services."
+      ]
+    },
+    {
+      role: "Financial Research Intern",
+      company: "LABMEC",
+      companylogo: require("./assets/images/vertical_sigla_fundo_claro.png"),
+      date: "Jan 2013 - Dec 2014",
+      desc: "Collection and validation of a large number of data sets taken from government and stock market databases to be used in finance research.",
+      descBullets: [
+        "Assisted using various statistical tools and proprietary finance software. Worked with Python, R, Gretl, and Excel."
       ]
     }
   ]
@@ -267,6 +275,17 @@ const bigProjects = {
           url: "https://fluidweb.co/portfolio/tattoo-bon/"
         }
       ]
+    },
+    {
+      image: require("./assets/images/rdnarts.png"),
+      projectName: "Rdnarts",
+      projectDesc: "Ecommerce for curated collection sourced directly from the artists studios",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://rdnarts.com/"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -278,9 +297,25 @@ const smallProjects = {
   title: "Small Projects",
   projects: [
     {
+      image: require("./assets/images/mindbell.png"),
+      projectName: "Mindfulness Bell App",
+      projectDesc: "Recurrent bell strikes to remain mindful/concentrated on the task at hand.",
+      footerLink: [
+        {
+          name: "Github",
+          url: "https://github.com/luiggidev/mindfulness-bell"
+        },
+        {
+          name: "App",
+          url: "https://mindfulness-bell.netlify.app/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
       image: require("./assets/images/react-calculator2.png"),
-      projectName: "React Calculator",
-      projectDesc: "Complete React calculator: Add, subtract, multiply, divide, supports decimal values, calculate percentages, invert, reset. ",
+      projectName: "React Casio Calculator",
+      projectDesc: "React calculator: Add, subtract, multiply, divide, supports decimal values, calculate percentages, invert, reset. ",
       footerLink: [
         {
           name: "Github",
@@ -288,32 +323,15 @@ const smallProjects = {
         },
         {
           name: "App",
-          url: "https://reverent-hoover-da1782.netlify.app/"
+          url: "https://casio-calculator.netlify.app/"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/racineJewels.png"),
-      projectName: "Racine Jewels",
-      projectDesc: "Refined Webdesign for a Swiss jewellery brand",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://fluidweb.co/portfolio/racine-jewels/"
-        }
-      ]
-    },
-    {
-      image: require("./assets/images/Tattoo-bon.png"),
-      projectName: "Tattoo-bon",
-      projectDesc: "Conversion optimized website and checkout flow",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://fluidweb.co/portfolio/tattoo-bon/"
-        }
-      ]
+      image: require("./assets/images/money-3.png"),
+      projectName: "Exchange rate Calculator",
+      projectDesc: "Fetches the latest Exchange rate and calculates the corresponding value",
     }
   ],
   display: false // Set false to hide this section, defaults to true
