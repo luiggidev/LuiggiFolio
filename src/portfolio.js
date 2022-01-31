@@ -298,7 +298,7 @@ const smallProjects = {
   projects: [
     {
       image: require("./assets/images/mindbell.png"),
-      projectName: "Mindfulness Bell App",
+      projectName: "React Mindfulness Bell App",
       projectDesc: "Recurrent bell strikes to remain mindful/concentrated on the task at hand.",
       footerLink: [
         {
@@ -330,8 +330,18 @@ const smallProjects = {
     },
     {
       image: require("./assets/images/money-3.png"),
-      projectName: "Exchange rate Calculator",
+      projectName: "JS Exchange rate Calculator",
       projectDesc: "Fetches the latest Exchange rate and calculates the corresponding value",
+    },
+    {
+      image: require("./assets/images/liftsul.jpg"),
+      projectName: "Fork-lift parts supplier Website",
+      projectDesc: "A brochure WP website, described all the available part categories and company description"
+    },
+    {
+      image: require("./assets/images/galeriasafull.jpg"),
+      projectName: "Art galery Website",
+      projectDesc: "A brochure WP website, responsive to all screen sizes"
     }
   ],
   display: false // Set false to hide this section, defaults to true
