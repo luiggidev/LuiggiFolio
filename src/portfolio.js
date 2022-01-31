@@ -283,6 +283,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
+          url: "https://rdnarts.com/"
         }
       ]
     }
@@ -322,6 +323,7 @@ const smallProjects = {
         },
         {
           name: "App",
+          url: "https://casio-calculator.netlify.app/"
         }
         //  you can add extra buttons here.
       ]
@@ -339,8 +341,7 @@ const smallProjects = {
     {
       image: require("./assets/images/galeriasafull.jpg"),
       projectName: "Art galery Website",
-      projectDesc: "A brochure WP website, responsive to all screen sizes",
-      
+      projectDesc: "A brochure WP website, responsive to all screen sizes"
     }
   ],
   display: false // Set false to hide this section, defaults to true
@@ -361,6 +362,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
+          url: "https://stackoverflow.com/users/story/8272670"
         },
       ]
     },
