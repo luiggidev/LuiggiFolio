@@ -11,6 +11,18 @@ export default function AchievementCard({cardInfo, isDark}) {
     win.focus();
   }
 
+  function maybeTransformIntoPill(url, dark) {
+    if(!url && !dark){
+      return "certificate-tag-pill"
+    } else if(!url && dark){
+      return "certificate-tag-pill dark-mode"
+    } else if(url && !dark){
+      return "certificate-tag"
+    } else if(url && dark){
+      return "certificate-tag dark-mode"
+    }
+  }
+
   return (
     <div className={isDark ? "dark-mode certificate-card" : "certificate-card"}>
       <div className="certificate-image-div">
@@ -29,9 +41,7 @@ export default function AchievementCard({cardInfo, isDark}) {
           return (
             <span
               key={i}
-              className={
-                isDark ? "dark-mode certificate-tag" : "certificate-tag"
-              }
+              className={maybeTransformIntoPill(v.url, isDark)}
               onClick={() => openUrlInNewTab(v.url, v.name)}
             >
               {v.name}

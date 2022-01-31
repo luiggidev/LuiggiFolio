@@ -13,6 +13,18 @@ export default function StartupProject() {
     win.focus();
   }
 
+  function maybeTransformIntoPill(url, dark) {
+    if(!url && !dark){
+      return "project-tag-pill"
+    } else if(!url && dark){
+      return "project-tag-pill dark-mode"
+    } else if(url && !dark){
+      return "project-tag"
+    } else if(url && dark){
+      return "project-tag dark-mode"
+    }
+  }
+
   const {isDark} = useContext(StyleContext);
   if (!bigProjects.display) {
     return null;
@@ -71,9 +83,7 @@ export default function StartupProject() {
                           return (
                             <span
                               key={i}
-                              className={
-                                isDark ? "dark-mode project-tag" : "project-tag"
-                              }
+                              className={maybeTransformIntoPill(link.url, isDark)}
                               onClick={() => openUrlInNewTab(link.url)}
                             >
                               {link.name}
