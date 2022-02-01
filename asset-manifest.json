@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.806ba48d.chunk.css",
+    "main.css": "/static/css/main.671aae80.chunk.css",
     "main.js": "/static/js/main.a863e153.chunk.js",
     "main.js.map": "/static/js/main.a863e153.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1103a385.js",
@@ -14,11 +14,11 @@
     "static/js/4.c21a1997.chunk.js": "/static/js/4.c21a1997.chunk.js",
     "static/js/4.c21a1997.chunk.js.map": "/static/js/4.c21a1997.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a6943144f8ad7440a543aa327397157c.js": "/precache-manifest.a6943144f8ad7440a543aa327397157c.js",
+    "precache-manifest.531461d6f3fdf7c882bdd04061e41889.js": "/precache-manifest.531461d6f3fdf7c882bdd04061e41889.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.2dbcfd79.chunk.css.map": "/static/css/3.2dbcfd79.chunk.css.map",
     "static/css/4.2dc7f448.chunk.css.map": "/static/css/4.2dc7f448.chunk.css.map",
-    "static/css/main.806ba48d.chunk.css.map": "/static/css/main.806ba48d.chunk.css.map",
+    "static/css/main.671aae80.chunk.css.map": "/static/css/main.671aae80.chunk.css.map",
     "static/js/2.6565b3f8.chunk.js.LICENSE.txt": "/static/js/2.6565b3f8.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/FluidwebLogo.jpg": "/static/media/FluidwebLogo.f6c1de99.jpg",
@@ -46,7 +46,7 @@
   "entrypoints": [
     "static/js/runtime-main.1103a385.js",
     "static/js/2.6565b3f8.chunk.js",
-    "static/css/main.806ba48d.chunk.css",
+    "static/css/main.671aae80.chunk.css",
     "static/js/main.a863e153.chunk.js"
   ]
 }
