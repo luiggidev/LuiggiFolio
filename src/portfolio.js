@@ -250,6 +250,12 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://fluidweb.co/portfolio/lobsteranywhere/"
+        },
+        {
+          name: "Custom Shipping step",
+        },
+        {
+          name: "SEO and A11y optimization",
         }
         //  you can add extra buttons here.
       ]
@@ -262,6 +268,12 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://fluidweb.co/portfolio/racine-jewels/"
+        },
+        {
+          name: "E Commerce site",
+        },
+        {
+          name: "Custom theme and plugins",
         }
       ]
     },
@@ -273,6 +285,12 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://fluidweb.co/portfolio/tattoo-bon/"
+        },
+        {
+          name: "WordPress",
+        },
+        {
+          name: "Tattoo vouchers",
         }
       ]
     },
@@ -284,6 +302,12 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://rdnarts.com/"
+        },
+        {
+          name: "E Commerce site",
+        },
+        {
+          name: "Custom ACF Blocks",
         }
       ]
     }
@@ -297,6 +321,30 @@ const smallProjects = {
   title: "Small Projects",
   projects: [
     {
+      image: require("./assets/images/portfoliosite.png"),
+      projectName: "Personal portfolio site",
+      projectDesc: "Site made with ReactJS to display portfolio and work experience",
+      footerLink: [
+        {
+          name: "Github",
+          url: "https://github.com/luiggidev/LuiggiFolio"
+        },
+        {
+          name: "ReactJS",
+        },
+        {
+          name: "graphql",
+        },
+        {
+          name: "react-twitter-embed",
+        },
+        {
+          name: "react-easy-emoji",
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
       image: require("./assets/images/mindbell.png"),
       projectName: "React Mindfulness Bell App",
       projectDesc: "Recurrent bell strikes to remain mindful/concentrated on the task at hand.",
@@ -306,8 +354,10 @@ const smallProjects = {
           url: "https://github.com/luiggidev/mindfulness-bell"
         },
         {
-          name: "App",
-          url: "https://mindfulness-bell.netlify.app/"
+          name: "In progress",
+        },
+        {
+          name: "ReactJS",
         }
         //  you can add extra buttons here.
       ]
@@ -325,6 +375,16 @@ const smallProjects = {
           name: "App",
           url: "https://casio-calculator.netlify.app/"
         }
+        ,
+        {
+          name: "ReactJS",
+        },
+        {
+          name: "Textfit component",
+        },
+        {
+          name: "react-meta-tags",
+        }
         //  you can add extra buttons here.
       ]
     },
@@ -332,19 +392,44 @@ const smallProjects = {
       image: require("./assets/images/money-3.png"),
       projectName: "JS Exchange rate Calculator",
       projectDesc: "Fetches the latest Exchange rate and calculates the corresponding value",
+      footerLink: [
+        {
+          name: "Github",
+          url: "https://github.com/luiggidev/Vanilla-JavaScript-projects"
+        },
+        {
+          name: "Vanilla JS",
+        },
+        {
+          name: "Fetch API",
+        }
+        //  you can add extra buttons here.
+      ]
     },
     {
       image: require("./assets/images/liftsul.jpg"),
       projectName: "Fork-lift parts supplier Website",
-      projectDesc: "A brochure WP website, described all the available part categories and company description"
+      projectDesc: "A brochure WP website, described all the available part categories and company description",
+      footerLink: [
+        {
+          name: "WordPress",
+        }
+        //  you can add extra buttons here.
+      ]
     },
     {
       image: require("./assets/images/galeriasafull.jpg"),
       projectName: "Art galery Website",
-      projectDesc: "A brochure WP website, responsive to all screen sizes"
+      projectDesc: "A brochure WP website, responsive to all screen sizes",
+      footerLink: [
+        {
+          name: "WordPress",
+        }
+        //  you can add extra buttons here.
+      ]
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 
