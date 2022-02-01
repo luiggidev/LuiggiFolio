@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0737d2ac6df18cbd451f8f06d3ba40fd",
+    "revision": "5850b34e661c0f35e8e00573da8f1c27",
     "url": "/index.html"
   },
   {
-    "revision": "9840b527db1e09a778f1",
+    "revision": "f9fcfedadb6acd553e8c",
     "url": "/static/css/3.2dbcfd79.chunk.css"
   },
   {
-    "revision": "b097ab63b760a97c4552",
+    "revision": "63b6bec75f9ad436c9ed",
     "url": "/static/css/4.2dc7f448.chunk.css"
   },
   {
-    "revision": "d3ddcc8716d03a3d74bc",
+    "revision": "7e078d77b4666601e177",
     "url": "/static/css/main.e1d6eedf.chunk.css"
   },
   {
-    "revision": "3e2a8443cbd4f0602ea2",
-    "url": "/static/js/2.bebd7ff8.chunk.js"
+    "revision": "491ed34e4abd1de0c83f",
+    "url": "/static/js/2.801a8226.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.bebd7ff8.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.801a8226.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9840b527db1e09a778f1",
-    "url": "/static/js/3.8a8eaa31.chunk.js"
+    "revision": "f9fcfedadb6acd553e8c",
+    "url": "/static/js/3.3d4bfbf7.chunk.js"
   },
   {
-    "revision": "b097ab63b760a97c4552",
-    "url": "/static/js/4.b190f76e.chunk.js"
+    "revision": "63b6bec75f9ad436c9ed",
+    "url": "/static/js/4.45e17ac8.chunk.js"
   },
   {
-    "revision": "d3ddcc8716d03a3d74bc",
-    "url": "/static/js/main.cbac0498.chunk.js"
+    "revision": "7e078d77b4666601e177",
+    "url": "/static/js/main.b16abecd.chunk.js"
   },
   {
-    "revision": "b0783c2954ec5545312b",
-    "url": "/static/js/runtime-main.8ffa99b0.js"
+    "revision": "20fb532b34042697394b",
+    "url": "/static/js/runtime-main.4bbf8e35.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -122,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2e10d2b65b778d2ab5d761f537960e87",
     "url": "/static/media/react-calculator2.2e10d2b6.png"
+  },
+  {
+    "revision": "f9c9ea7e4652fa178753d2d8c5f2b1bd",
+    "url": "/static/media/reactcourse.f9c9ea7e.png"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
