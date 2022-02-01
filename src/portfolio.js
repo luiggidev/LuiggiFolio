@@ -437,8 +437,19 @@ const smallProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji("Certifications 📚 "),
+  title: emoji("Courses and Certifications 📚 "),
   achievementsCards: [
+    {
+      title: "The Complete React Developer Course (w/ Hooks and Redux)",
+      subtitle:
+        "React, Redux, React-Router, Webpack, Babel, Testing with Jest, Enzyme App, Debugging App, Deployment, Firebase, Authentication, Git/GitHub, ES6/ES7.",
+      image: require("./assets/images/reactcourse.png"),
+      footerLink: [
+        {
+          name: "Ongoing, Almost done",
+        },
+      ]
+    },
     {
       title: "Vanilla JS Academy",
       subtitle:
