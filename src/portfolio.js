@@ -243,6 +243,61 @@ const bigProjects = {
   title: "Big Projects",
   projects: [
     {
+      image: require("./assets/images/portfoliosite.png"),
+      projectName: "Personal portfolio site",
+      projectDesc: "Site made with ReactJS to display portfolio and work experience",
+      footerLink: [
+        {
+          name: "Github",
+          url: "https://github.com/luiggidev/LuiggiFolio"
+        },
+        {
+          name: "ReactJS",
+        },
+        {
+          name: "graphql",
+        },
+        {
+          name: "react-twitter-embed",
+        },
+        {
+          name: "react-easy-emoji",
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/expensify.png"),
+      projectName: "Expensify app",
+      projectDesc: "Expenses tracker, User login, Firebase and Redux",
+      footerLink: [
+        {
+          name: "Github",
+          url: "https://github.com/luiggidev/expensify-app"
+        },
+        {
+          name: "App",
+          url: "https://lab-expensify-app.herokuapp.com/"
+        },
+        {
+          name: "ReactJS",
+        },
+        {
+          name: "Redux",
+        },
+        {
+          name: "Firebase",
+        },
+        {
+          name: "Airbnb datepicker",
+        },
+        {
+          name: "Heroku",
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
       image: require("./assets/images/LobsterAnywhere.jpg"),
       projectName: "Lobster Anywhere",
       projectDesc: "Simplified checkout and improved navigation for the online store",
@@ -321,25 +376,24 @@ const smallProjects = {
   title: "Small Projects",
   projects: [
     {
-      image: require("./assets/images/portfoliosite.png"),
-      projectName: "Personal portfolio site",
-      projectDesc: "Site made with ReactJS to display portfolio and work experience",
+      image: require("./assets/images/prize.png"),
+      projectName: "Prize picker",
+      projectDesc: "React random prize picker",
       footerLink: [
         {
           name: "Github",
-          url: "https://github.com/luiggidev/LuiggiFolio"
+          url: "https://github.com/luiggidev/indecision-app-v2"
+        }
+        ,
+        {
+          name: "App",
+          url: "https://prize-picker.netlify.app/"
         },
         {
           name: "ReactJS",
         },
         {
-          name: "graphql",
-        },
-        {
-          name: "react-twitter-embed",
-        },
-        {
-          name: "react-easy-emoji",
+          name: "react-modal",
         }
         //  you can add extra buttons here.
       ]
