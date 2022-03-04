@@ -500,7 +500,8 @@ const achievementSection = {
       image: require("./assets/images/reactcourse.png"),
       footerLink: [
         {
-          name: "Ongoing, Almost done",
+          name: "Certification",
+          url: "https://www.udemy.com/certificate/UC-37ce4c34-d753-425c-8195-622b7b71e70f/"
         },
       ]
     },
