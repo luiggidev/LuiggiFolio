@@ -494,10 +494,21 @@ const achievementSection = {
   title: emoji("Courses and Certifications 📚 "),
   achievementsCards: [
     {
+      title: "Agile Fundamentals: Including Scrum and Kanban - 2021",
+      subtitle:
+        "Master Agile principles, values, approaches, & mindset to help organizations make changes faster and with less expense",
+      image: require("./assets/images/agile-course.png"),
+      footerLink: [
+        {
+          name: "Ongoing",
+        },
+      ]
+    },
+    {
       title: "The Complete React Developer Course (w/ Hooks and Redux)",
       subtitle:
         "React, Redux, React-Router, Webpack, Babel, Testing with Jest, Enzyme App, Debugging App, Deployment, Firebase, Authentication, Git/GitHub, ES6/ES7.",
-      image: require("./assets/images/reactcourse.png"),
+      image: require("./assets/images/react-course.png"),
       footerLink: [
         {
           name: "Certification",
