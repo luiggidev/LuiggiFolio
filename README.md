@@ -2,6 +2,7 @@
 
 Personal Portfolio page using React, graphql, apollo-boost, react-twitter-embed, react-easy-emoji, react-headroom, color-thief.
 
+
 Mods include: 
 - Fixes pills, allowing tags with no urls with added maybeTransformIntoPill()
 - Cleaning up a few sections
