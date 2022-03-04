@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b1c8a7e1802cf44de4cd3b998ad7b21",
+    "revision": "d21e27aa6c00c8a44ea2c35659837517",
     "url": "/index.html"
   },
   {
-    "revision": "f104000572d40c7ac1dc",
+    "revision": "938bd8813064d236e6a0",
     "url": "/static/css/3.2dbcfd79.chunk.css"
   },
   {
-    "revision": "0e0f7d8a311635ff15a6",
+    "revision": "8df911fac5ac7cc2ee5e",
     "url": "/static/css/4.2dc7f448.chunk.css"
   },
   {
-    "revision": "af1be398cb05d8c5fc52",
+    "revision": "cc677a8544e025b0d718",
     "url": "/static/css/main.e1d6eedf.chunk.css"
   },
   {
-    "revision": "9bc5b0cd6ef19f16f136",
-    "url": "/static/js/2.bb591b87.chunk.js"
+    "revision": "74d0a250a8aa7bb5d05d",
+    "url": "/static/js/2.9f74ad7f.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.bb591b87.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9f74ad7f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f104000572d40c7ac1dc",
-    "url": "/static/js/3.a4f2de05.chunk.js"
+    "revision": "938bd8813064d236e6a0",
+    "url": "/static/js/3.b1ae362d.chunk.js"
   },
   {
-    "revision": "0e0f7d8a311635ff15a6",
-    "url": "/static/js/4.9bc191df.chunk.js"
+    "revision": "8df911fac5ac7cc2ee5e",
+    "url": "/static/js/4.2bddac73.chunk.js"
   },
   {
-    "revision": "af1be398cb05d8c5fc52",
-    "url": "/static/js/main.00cf3ca3.chunk.js"
+    "revision": "cc677a8544e025b0d718",
+    "url": "/static/js/main.ad1923b4.chunk.js"
   },
   {
-    "revision": "6b1c4489207f6664a7e1",
-    "url": "/static/js/runtime-main.e4362c10.js"
+    "revision": "e3982e8ef7a7afecdf84",
+    "url": "/static/js/runtime-main.5b488d66.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -78,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4a3b08a332d0f040260fca55f9a97a94",
     "url": "/static/media/WPdevelopment.4a3b08a3.png"
+  },
+  {
+    "revision": "5811f603c0d38f83fef4ffcc7eb931ac",
+    "url": "/static/media/agile-course.5811f603.png"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
@@ -132,8 +136,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/react-calculator2.2e10d2b6.png"
   },
   {
-    "revision": "f9c9ea7e4652fa178753d2d8c5f2b1bd",
-    "url": "/static/media/reactcourse.f9c9ea7e.png"
+    "revision": "704dd93a023956ea166753c9fbf6b764",
+    "url": "/static/media/react-course.704dd93a.png"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
