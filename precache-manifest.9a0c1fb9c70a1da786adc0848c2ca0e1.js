@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d21e27aa6c00c8a44ea2c35659837517",
+    "revision": "e2fb5d57488acffd0a19bda80b2273b5",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.2dc7f448.chunk.css"
   },
   {
-    "revision": "cc677a8544e025b0d718",
+    "revision": "204e35f493123fba72c7",
     "url": "/static/css/main.e1d6eedf.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.2bddac73.chunk.js"
   },
   {
-    "revision": "cc677a8544e025b0d718",
-    "url": "/static/js/main.ad1923b4.chunk.js"
+    "revision": "204e35f493123fba72c7",
+    "url": "/static/js/main.134f98de.chunk.js"
   },
   {
     "revision": "e3982e8ef7a7afecdf84",
@@ -80,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/WPdevelopment.4a3b08a3.png"
   },
   {
-    "revision": "5811f603c0d38f83fef4ffcc7eb931ac",
-    "url": "/static/media/agile-course.5811f603.png"
+    "revision": "5628d7c60fc1cfc060fa1e7d291c947a",
+    "url": "/static/media/agile.5628d7c6.png"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
