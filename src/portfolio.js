@@ -494,9 +494,20 @@ const achievementSection = {
   title: emoji("Courses and Certifications 📚 "),
   achievementsCards: [
     {
+      title: "Product Owner Fundamentals",
+      subtitle:
+        "In-depth course on PO mindset, skills, responsibilities, and best practices.",
+      image: require("./assets/images/PO.png"),
+      footerLink: [
+        {
+          name: "‘Ongoing",
+        },
+      ]
+    },
+    {
       title: "Agile Fundamentals: Including Scrum and Kanban - 2021",
       subtitle:
-        "Master Agile principles, values, approaches, & mindset to help organizations make changes faster and with less expense",
+        "Agile principles, values, approaches, & mindset to help organizations make changes faster and with less expense.",
       image: require("./assets/images/agile.png"),
       footerLink: [
         {
