@@ -497,10 +497,11 @@ const achievementSection = {
       title: "Agile Fundamentals: Including Scrum and Kanban - 2021",
       subtitle:
         "Master Agile principles, values, approaches, & mindset to help organizations make changes faster and with less expense",
-      image: require("./assets/images/agile-course.png"),
+      image: require("./assets/images/agile.png"),
       footerLink: [
         {
-          name: "Ongoing",
+          name: "Certification",
+          url: "https://www.udemy.com/certificate/UC-cc037ca3-fded-4a0b-80de-c1c9fe80dba9/"
         },
       ]
     },
