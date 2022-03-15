@@ -500,7 +500,8 @@ const achievementSection = {
       image: require("./assets/images/PO.png"),
       footerLink: [
         {
-          name: "‘Ongoing",
+          name: "Certification",
+          url: "https://www.udemy.com/certificate/UC-050cbf5d-d5ed-4503-bb86-5c5322fce264/"
         },
       ]
     },
